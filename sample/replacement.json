@@ -1,0 +1,35 @@
+{
+    "Type": "Replacement",
+    "GeneratorOptions": {
+        "ReplacementOptions": {
+            "C": [
+                "b","c","d","dz",
+                "f","g","h","j",
+                "k","m","n","p",
+                "r","s","t","v",
+                "w","x","z"
+            ],
+            "D": [
+                "b","c","d","dz",
+                "f","g",
+                "k","m","n","p",
+                "r","s","t","v",
+                "x","z"
+            ],
+            "V": [
+                "a","e","i","o",
+                "u","y"
+            ],
+            "W": [
+                "a","i","u","y"
+            ]
+        },
+        "CreatePatterns": [
+            "CVDCV","CDVCV","CVCW","CVCVD"
+        ],
+        "Prohibitions": [
+            "^hl","^hr","hll","hdzm",
+            "hlg"
+        ]
+    }
+}

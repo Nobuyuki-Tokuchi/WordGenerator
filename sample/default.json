@@ -1,0 +1,21 @@
+{
+    "Type": "Simple",
+    "GeneratorOptions": {
+        "Letters": [
+            "a","b","c","d",
+            "dz","e","f","g",
+            "h","i","j","k",
+            "l","m","n","o",
+            "p","r","s","t",
+            "u","v","w","x",
+            "y","z"
+        ],
+        "WordLengths": [
+            4, 5
+        ],
+        "Prohibitions": [
+            "^hl","^hr","hll","hdzm",
+            "hlg","w$","y$"
+        ]
+    }
+}
