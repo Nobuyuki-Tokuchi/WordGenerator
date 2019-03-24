@@ -9,7 +9,7 @@ using Newtonsoft.Json.Linq;
 namespace WordGenerator.Generator
 {
     /// <summary>
-    /// 単純単語作成
+    /// 単純単語文字列作成
     /// </summary>
     public class SimpleGenerator : IGenerator
     {

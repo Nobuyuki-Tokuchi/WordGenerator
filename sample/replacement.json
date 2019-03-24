@@ -1,4 +1,5 @@
 {
+    "Name": "置換単語文字列作成(設定例)",
     "Type": "Replacement",
     "GeneratorOptions": {
         "ReplacementOptions": {

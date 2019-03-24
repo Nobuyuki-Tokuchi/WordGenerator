@@ -113,6 +113,7 @@ namespace WordGenerator
 
     class WordGeneratorOption
     {
+        public string Name { get; set; }
         public string Type { get; set; }
         public IDictionary<string, object> GeneratorOptions { get; set; }
     }

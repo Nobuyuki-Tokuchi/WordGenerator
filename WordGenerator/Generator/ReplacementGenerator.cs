@@ -8,7 +8,7 @@ using Newtonsoft.Json.Linq;
 namespace WordGenerator.Generator
 {
     /// <summary>
-    /// 置換単語作成
+    /// 置換単語文字列作成
     /// </summary>
     public class ReplacementGenerator : IGenerator
     {

@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace WordGenerator.Generator
 {
+    /// <summary>
+    /// 置換遷移単語文字列作成
+    /// </summary>
     public class ReplacementTransitionGenerator : IGenerator
     {
         private readonly ReplacementTransitionGeneratorOption option;
